@@ -1,10 +1,11 @@
 # LetsEncrypt DotNet Update
 Biblioteka i aplikacja do tworzenia i aktualizacji certyfikatów w usłudze [Let's Encrypt](https://letsencrypt.org/).
 
+Sposób użycia opisany w artykule [Certyfikaty SSL Let's Encrypt z pomocą Azure](http://pieszynski.com/temat/certyfikaty-ssl-lets-encrypt-z-pomoca-azure)
+
+Najnowsza wersja: [Pieszynski.LenuManager.exe](dist/Pieszynski.LenuManager.exe) + [appsettings.json](dist/appsettings.json)
 
 ![Generowanie certyfikatu](img/cert-gen.png)
-
-Najnowsza wersja: [Pieszynski.LenuManager.exe](dist/Pieszynski.LenuManager.exe)
 
 ## Oocx.Acme
 Repozytorium korzysta z delikatnie zmodyfikowanej wersji biblioteki [Oocx/acme.net](https://github.com/oocx/acme.net).
